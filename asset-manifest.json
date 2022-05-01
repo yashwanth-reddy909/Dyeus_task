@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Dyeus_task/static/css/main.165dac6e.css",
+    "main.js": "/Dyeus_task/static/js/main.f71d460e.js",
+    "static/js/787.511b5a5e.chunk.js": "/Dyeus_task/static/js/787.511b5a5e.chunk.js",
+    "index.html": "/Dyeus_task/index.html",
+    "main.165dac6e.css.map": "/Dyeus_task/static/css/main.165dac6e.css.map",
+    "main.f71d460e.js.map": "/Dyeus_task/static/js/main.f71d460e.js.map",
+    "787.511b5a5e.chunk.js.map": "/Dyeus_task/static/js/787.511b5a5e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.165dac6e.css",
+    "static/js/main.f71d460e.js"
+  ]
+}
